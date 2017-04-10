@@ -1,0 +1,19 @@
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\bin\Debug\CAOLogMonitor.exe.config
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\bin\Debug\CAOLogMonitor.exe
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\bin\Debug\CAOLogMonitor.pdb
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\obj\Debug\CAOLogMonitor.exe
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\obj\Debug\CAOLogMonitor.pdb
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\bin\Debug\CAOLogMonitor.exe.manifest
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\bin\Debug\CAOLogMonitor.application
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\obj\Debug\CAOLogMonitor.exe.manifest
+c:\users\szhou\documents\visual studio 2012\Projects\CAOLogMonitor\CAOLogMonitor\obj\Debug\CAOLogMonitor.application
+H:\Users\szhou\Documents\GitHub\LogMonitor\bin\Debug\CAOLogMonitor.exe.config
+H:\Users\szhou\Documents\GitHub\LogMonitor\obj\Debug\CAOLogMonitor.exe
+H:\Users\szhou\Documents\GitHub\LogMonitor\obj\Debug\CAOLogMonitor.pdb
+H:\Users\szhou\Documents\GitHub\LogMonitor\bin\Debug\CAOLogMonitor.exe.manifest
+H:\Users\szhou\Documents\GitHub\LogMonitor\bin\Debug\CAOLogMonitor.application
+H:\Users\szhou\Documents\GitHub\LogMonitor\bin\Debug\CAOLogMonitor.exe
+H:\Users\szhou\Documents\GitHub\LogMonitor\bin\Debug\CAOLogMonitor.pdb
+H:\Users\szhou\Documents\GitHub\LogMonitor\obj\Debug\CAOLogMonitor.csprojResolveAssemblyReference.cache
+H:\Users\szhou\Documents\GitHub\LogMonitor\obj\Debug\CAOLogMonitor.exe.manifest
+H:\Users\szhou\Documents\GitHub\LogMonitor\obj\Debug\CAOLogMonitor.application
